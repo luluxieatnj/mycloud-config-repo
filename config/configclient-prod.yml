@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+data:
+  user:
+    username: prod
+    password: prod1234

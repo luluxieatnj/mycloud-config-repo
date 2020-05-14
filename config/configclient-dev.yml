@@ -1,0 +1,7 @@
+server:
+  port: 8081  # client的端口号
+
+data:
+  user:
+    username: dev
+    password: dev1234
