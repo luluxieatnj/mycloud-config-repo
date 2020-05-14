@@ -4,5 +4,5 @@ foo: foo version 1
 
 data:
   user:
-    username: configclient-dev
+    username: configclient-prod
     password: 1234
